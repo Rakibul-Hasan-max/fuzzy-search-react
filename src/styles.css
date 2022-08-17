@@ -45,16 +45,20 @@
 }
 
 .item-container {
-  width: 30%;
+  width: 50%;
   margin: 0 auto;
-  margin-top: 45px;
+  margin-top: 50px;
   display: flex;
   flex-wrap: wrap;
 }
 
 .item-container .item {
-  flex: 1 1 260px;
-  margin: 12px;
+  display: flex;
+  margin: 20px;
+  gap: 150px;
+  /* border: 1px solid gray;
+  border-radius: 5px;
+  padding: 20px; */
 }
 
 .item-container .item .logo {
@@ -72,4 +76,5 @@
 .details {
   color: #686980;
   font-size: 12px;
+  margin-bottom: 10px;
 }

@@ -7,8 +7,9 @@ const Item = (props) => {
         <img src={props.logo} alt={props.name} />
       </div>
       <div className="name">
-        <p>{props.name}</p>
+        <h3>{props.name}</h3>
         <div className="details">{props.details}</div>
+        <button>Buy Now</button>
       </div>
     </div>
   );
