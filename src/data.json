@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Asus VivoBook 14",
+    "logo": "https://www.cloud.ryanscomputers.com/cdn/products/medium/asus-vivobook-14-e410ma-intel-cdc-n4020-14-inch-11635587461.webp",
+    "details": "ASUSTek Computer Inc. is a Taiwanese multinational computer and phone hardware company."
+  },
+  {
+    "name": "Lenovo V15 Gen 2",
+    "logo": "https://www.lenovo.com/medias/lenovo-laptops-v-series-v15-gen2-15inch-intel-hero.png?context=bWFzdGVyfHJvb3R8MjIxNjY2fGltYWdlL3BuZ3xoMjUvaDM2LzE0MTkwNTMxMTQ5ODU0LnBuZ3w0NGI3MzIyM2UyY2NkYmY0OTlkNzJhODYwMjYxYTE4MDZlNDk2NTE0ZDRhNmY3ZmQ1ODBmZDNkZmJmM2Y2NDlm",
+    "details": "Lenovo Group Limited, often shortened to Lenovo, is a Chinese multinational technology company."
+  },
+  {
+    "name": "Hp ProBook 450 G8",
+    "logo": "https://i5.walmartimages.com/asr/4f941fe6-0cf3-42af-a06c-7532138492fc_2.cb8e85270e731cb1ef85d431e49f0bf2.jpeg",
+    "details": "HP Inc. is an American multinational information technology company headquartered in Palo Alto, California"
+  },
+  {
+    "name": "Apple MacBook Pro",
+    "logo": "https://www.allround-pc.com/wp-content/uploads/2021/12/Apple-MacBook-Pro-2021-mit-M1-Pro-Chip-Notebook-Stock-1-1112x625.jpg",
+    "details": "Apple Inc. is an American multinational technology company that specializes in consumer electronics, software."
+  },
+  {
+    "name": "Dell Vostro 3468",
+    "logo": "https://5.imimg.com/data5/EV/CM/MY-66951685/dell-vostro-3468-14-inch-laptop-500x500.png",
+    "details": "Dell is an American multinational technology company that develops, sells, repairs, and supports computers."
+  },
+  {
+    "name": "Acer Aspire Vero",
+    "logo": "https://hnsfpau.imgix.net/5/images/detailed/188/NX.AYCSA.005_1.jpg?fit=fill&bg=0FFF&w=1500&h=844&auto=format,compress",
+    "details": "Acer Inc. is a Taiwanese multinational hardware and electronics corporation."
+  },
+  {
+    "name": "Microsoft Surface Pro",
+    "logo": "https://fdn.gsmarena.com/imgroot/news/17/05/new-surface-pro/-728/gsmarena_001.jpg",
+    "details": "Microsoft Corporation is an American multinational technology corporation which produces computer software."
+  },
+  {
+    "name": "Toshiba Laptop",
+    "logo": "https://www.bdstall.com/asset/product-image/giant_175111.jpg",
+    "details": "Toshiba Corporation, commonly known as Toshiba and stylized as TOSHIBA, is a Japanese multinational conglomerate corporation"
+  },
+  {
+    "name": "Sony Viao S",
+    "logo": "https://images.indianexpress.com/2021/01/Vaio-FBBB.jpg",
+    "details": "Sony Group Corporation, commonly known as Sony and stylized as SONY, is a Japanese multinational conglomerate corporation."
+  },
+  {
+    "name": "Samsung Galaxy Book-S",
+    "logo": "https://www.zdnet.com/a/hub/i/2019/08/09/736ad3c3-510c-4b8b-b96f-348df5c28f62/samsung-galaxy-book-s-windows-laptop-notebook.jpg",
+    "details": "The Samsung Group (or simply Samsung, stylized as SΛMSUNG) is a South Korean multinational manufacturing conglomerate company."
+  }
+]
